@@ -1,0 +1,7 @@
+node_modules/
+client/dist/
+server/maintenance.db
+server/maintenance.db-shm
+server/maintenance.db-wal
+.DS_Store
+*.log
